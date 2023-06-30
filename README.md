@@ -1,6 +1,4 @@
-### Thank you for comming My Github👋
 
-<br>
 <br>
 <h2>INTRODUCING</h2>
 <h4>2023.02.07 IT Study Start</h4>
