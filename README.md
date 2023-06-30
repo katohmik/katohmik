@@ -1,6 +1,5 @@
 ### Thank you for comming My Github👋
 
-<h2>Not Ready Yet </h2>
 <br>
 <br>
 <h2>INTRODUCING</h2>
