@@ -12,7 +12,7 @@
 <br>
 <h2>Site</h2><br>
 <a href="https://www.notion.so/katohmik-a392ff701ae8499a939f5313f9e4c309" ><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katohmik@gmail.com"/]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katohmik@gmail.com)](mailto:katohmik@gmail.com)
 <img src="https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=white"/>
 
 
