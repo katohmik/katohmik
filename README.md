@@ -3,7 +3,13 @@
 <br>
 <br>
 <h2>INTRODUCING</h2>
-<h3>Since 2023.02.07</h3>
+<h4>2023.02.07 IT Study Start</h4>
+<h4>2022.03 ~ Live Korea</h4>
+<h4>2022.03 Graduated Doshisha University</h4>
+<h4>2018.03 Graduated Ehle college</h4>
+<h4>2015.03 ~ 2017.02 Studied ECC Nagoya</h4>
+<h4>2015.03 ~ Live Japan</h4>
+<h4>1991.06 Birth in Korea </h4>
 <br>
 
 
